@@ -1,9 +1,7 @@
 print("¿Qué deseas hoy?")
-opcionesDeMenu = ["1.reservacion,2.menu,3.contacto,4.acerca de nosotros,5.ubicacion"]
-for Menu in opcionesDeMenu:print (opcionesDeMenu[0])
-print (len(opcionesDeMenu))
-for i, opcionesDeMenu in enumerate (opcionesDeMenu):
-    print(i, opcionesDeMenu)
+opcionesDeMenu = ["reservacion", "menu", "contacto", "acerca de nosotro", "ubicacion"]
+for i,opcion in enumerate(opcionesDeMenu,start=3):
+    print(f"{i}.{opcion}")
 
-if opcionesDeMenu: list [0]
-    
+    seleccion =input("elige una opción(1-5):")
+
