@@ -1,6 +1,6 @@
 Loquendocasa
 
-Descripción
+#Descripción
 
 Loquendocasa es un restaurante ficticio donde disfrutas de todo un poco: comida y ambiente. Este proyecto es un sistema de reservación desarrollado en Python que permite a los usuarios interactuar con un menú de opciones desde la consola para realizar una reservación, consultar el menú del restaurante, ver información de contacto, conocer más sobre el restaurante y consultar su ubicación. El objetivo es simular, de forma sencilla, el flujo básico que seguiría un cliente al reservar una mesa, aplicando conceptos fundamentales de programación como listas, condicionales, funciones y clases.
 
